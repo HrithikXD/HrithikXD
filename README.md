@@ -1,4 +1,4 @@
-👋 Hi, I’m Hrithik, how you doin'?
+👋 Hi, how you doin'?
 
 <!--
 **HrithikXD/HrithikXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
